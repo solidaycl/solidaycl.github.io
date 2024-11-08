@@ -1,5 +1,7 @@
-_site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor
+# .gitignore for neovim.github.io
+
+## bundler
+/.bundle/*
+
+## jekyll
+/_site/*
