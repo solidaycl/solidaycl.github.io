@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  Chocolate Chip Cookie Recipe
@@ -8,7 +7,8 @@ categories: yummy, delicous
 
 # Katie's chocolate chip recipe
 
-Ingredients
+## Ingredients
+
 - 225 grams butter
 - 200 grams white sugar
 - 225 grams light brown sugar
@@ -19,4 +19,15 @@ Ingredients
 - 1/2 tsp baking powder
 - 355 grams ap flour
 - 400 grams chocolate chips
+
+## Prep
+
+1. Cream butter and sugar until lightened in color
+2. mix in vanilla, salt, baking powder, baking soda
+3. Add egg, flour 
+4. Fold in Chocolate Chips
+
+## Cook
+
+* Bake at 325*F 12 - 15 min until browned edges
 
