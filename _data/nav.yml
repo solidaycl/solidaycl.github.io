@@ -1,19 +1,18 @@
 - title: About
   url: /about/
+- title: Resume
+  url: /resume/
+- title: Photography
+  url: https://adobe.ly/48YV1Hf
+- title: Dogs
   sections:
-    - title: Vision
-      url: /charter/
-    - title: Roadmap
-      url: /roadmap/
-    - title: Screenshots
-      url: /screenshots/
-- title: News
-  url: /news/
-- title: Development
-  url: https://github.com/neovim/neovim
-- title: Documentation
-  url: /doc/
-- title: Sponsors
-  url: /sponsors/
-- title: Store
-  url: https://store.neovim.io/
+    - title: Sam
+      url: /dogsam/
+    - title: Archie
+      url: /dogarchie/
+    - title: Charlie
+      url: /dogcharlie/
+- title: Github
+  url: https://github.com/solidaycl 
+- title: LinkedIn
+  url: https://www.linkedin.com/in/solidaycl 

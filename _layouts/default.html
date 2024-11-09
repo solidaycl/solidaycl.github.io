@@ -8,10 +8,6 @@
     {% feed_meta %}
     <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
 
-    <!-- algolia docsearch https://docsearch.algolia.com/docs/docsearch-v3/ -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3" />
-    <link rel="preconnect" href="https://X185E15FPG-dsn.algolia.net" crossorigin />
-
     <link href="/css/bootstrap.min.css" rel="stylesheet">
 
     <link href="/css/main.css" rel="stylesheet">
@@ -25,17 +21,6 @@
     {% include footer.html %}
 
     <script src="/js/bootstrap.bundle.min.js"></script>
-
-    <!-- algolia docsearch https://docsearch.algolia.com/docs/docsearch-v3/ -->
-    <script src="https://cdn.jsdelivr.net/npm/@docsearch/js@3"></script>
-    <script type="module">
-      docsearch({
-        container: '#docsearch',
-        appId: 'X185E15FPG',
-        apiKey: 'b5e6b2f9c636b2b471303205e59832ed',
-        indexName: 'nvim',
-      });
-    </script>
 
   </body>
 </html>
