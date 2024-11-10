@@ -7,11 +7,11 @@
 - title: Dogs
   sections:
     - title: Sam
-      url: /dogsam/
+      url: /samdog/
     - title: Archie
-      url: /dogarchie/
+      url: /archiedog/
     - title: Charlie
-      url: /dogcharlie/
+      url: /charliedog/
 - title: Github
   url: https://github.com/solidaycl 
 - title: LinkedIn
