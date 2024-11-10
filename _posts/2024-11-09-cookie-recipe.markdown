@@ -4,7 +4,7 @@ title:  Chocolate Chip Cookies
 date:   2024-11-08 09:49:14 -0500
 ---
 
-# Katie's chocolate chip recipe
+# Debugging Biscuits
 
 ![Cookies]({{ "assets/image/cookies.jpg" | relative_url }}){: .center-image }
 
