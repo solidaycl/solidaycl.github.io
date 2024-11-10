@@ -9,6 +9,7 @@ email: solidaycl+web@gmail.com
 description: >-
   Chris on the web.
 url: ""
+baseurl: ""
 github_username:  solidaycl
 
 plugins:

@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  Chocolate Chip Cookie Recipe
+title:  Chocolate Chip Cookies 
 date:   2024-11-08 09:49:14 -0500
-categories: yummy, delicous
 ---
 
 # Katie's chocolate chip recipe
+
+![Cookies]({{ "assets/image/cookies.jpg" | relative_url }}){: .center-image }
 
 ## Ingredients
 
